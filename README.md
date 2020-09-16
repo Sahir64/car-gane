@@ -1,2 +1,2 @@
-# car-gane
-ok
+# synchronousBallMovement
+Ball moving synchronously
